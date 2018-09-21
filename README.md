@@ -18,5 +18,14 @@ Machine Learning Algorithms With Sklearn Library
 * Random Forest
 
 ## Clustering Algorithms
-* HierarcicalClustering
+* Hierarcical Clustering
 * K-Means
+
+## Natural Language Processing
+*Data prediction with tweets.*
+
+## Principal Component Analysis
+*Data dimension reduction.(two from four)*
+
+## K-Fold
+*Comparison data test accuracy with k-fold test accuracy.*

@@ -16,3 +16,7 @@ Machine Learning Algorithms With Sklearn Library
 * Linear Regression
 * Logistic Regression
 * Random Forest
+
+## Clustering Algorithms
+* HierarcicalClustering
+* K-Means
